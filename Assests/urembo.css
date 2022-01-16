@@ -1,0 +1,57 @@
+body{
+    background-color: #c84e62;
+}
+    .Saru{
+        color: #bc6cc8;
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .crystal{
+        background-color: #c81241;
+        width: 100px;
+        height: 50px;
+        border-radius: 8px;
+        border: unset;
+        font-size: 30px;
+        cursor: pointer;
+        color: #72efff;
+    }
+    .maureen{
+        color: #c81241;
+        font-size: 30px;
+        text-align: center;
+        text-decoration: underline;
+
+    }
+
+    .register{
+        width: 40%;
+        margin: auto;
+    }
+    .ben_reg{
+        width: 100%;
+        height: 30px;
+        padding-left: 16px;
+        color: #c81717;
+        font-family: Bahnschrift, emoji;
+        border: unset;
+        border-radius: 8px;
+        font-weight: bold;
+    }
+    .cate{
+        width: 50%;
+        margin-left: 35%;
+        margin-right: 35%;
+        height: 40px;
+        background-color: aqua;
+        border-radius: 8px;
+        border: unset;
+        color: #0723c8;
+        cursor: pointer;
+    }
+    img{
+        width: 30%;
+        margin-left: 10px;
+        height: 50vh;
+    }
